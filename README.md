@@ -1,2 +1,2 @@
-# Playstation-Webage
+# Playstation-Webpage
 Site Playstation
